@@ -16,7 +16,7 @@ A cross-platform Go proxy implementing VLESS + Reality over gRPC.
 - Linux / macOS / Windows builds
 - GitHub Actions CI/CD
 
-[Repository](https://github.com/NoSuchNameException/xray-client)
+[Repository](https://github.com/NoSuchNameException?tab=repositories)
 <!--
 **NoSuchNameException/NoSuchNameException** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
